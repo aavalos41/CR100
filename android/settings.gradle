@@ -1,0 +1,3 @@
+rootProject.name = 'CR100'
+
+include ':app'
